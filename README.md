@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-When using virtualization, one of the first things you to do is configure base images to be used as templates when creating virtual machines. A base image, sometimes called a reference or a golden image, is a virtual machine with an operating system installed and configured with settings that are common to all the systems with that particular operating system. In this lab, I completed the first part of this process, which is to create virtual machines and install the operating systems on the virtual machines.
+When using virtualization, one of the first things you must do is configure base images to be used as templates when creating virtual machines. A base image, sometimes called a reference or a golden image, is a virtual machine with an operating system installed and configured with settings that are common to all the systems with that particular operating system. In this lab, I completed the first part of this process, which is to create virtual machines and install the operating systems on the virtual machines.
 <br />
 
 <h2>Languages and Utilities Used</h2>
